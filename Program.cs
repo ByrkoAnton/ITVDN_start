@@ -24,7 +24,5 @@ namespace ITVDN_start
             Console.WriteLine(s2);
             Console.WriteLine(s3);
         }
-
     }
-
 }
